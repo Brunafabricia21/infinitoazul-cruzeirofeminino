@@ -1,0 +1,8 @@
+{
+  "name": "Infinito Azul - Cruzeiros Femininos",
+  "description": "Uma landing page luxuosa e tecnológica para a Infinito Azul, agência de viagens especializada em cruzeiros exclusivos para mulheres.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
